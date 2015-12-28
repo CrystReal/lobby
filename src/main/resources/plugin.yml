@@ -1,0 +1,9 @@
+name: Lobby
+main: com.updg.sclobby.sclobby
+version: 1.0
+commands:
+  leave:
+  check:
+  login:
+  l:
+  reloadlobby:
